@@ -8,4 +8,5 @@ This allows you a link between main and renderer and avoid nodeintegration in re
 # run it home
 
 ``` npm i ```
-``` npm run start ``
+
+``` npm run start ```
